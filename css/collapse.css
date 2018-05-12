@@ -1,0 +1,47 @@
+:root {
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    
+    margin-left: 10%;
+   
+}
+
+a:hover {
+   
+    visibility: none;
+    color: #003333  ;
+    
+}
+body {
+    margin:0;
+    font-family:serif;
+    }
+
+p{
+    background-color: #e4f7d6;
+    width:30%;
+    padding:3%;
+}
+
+.active {
+  background-color: #6dc8ed;
+  color: white;
+}
+
+
+.button1 {
+  background-color: #dcf8c6;
+  padding: 20px 80px;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+.btn{
+  cursor: pointer;
+}
